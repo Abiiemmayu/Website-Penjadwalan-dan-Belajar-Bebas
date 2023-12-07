@@ -1,6 +1,6 @@
 # Website-Penjadwalan-dan-Belajar-Bebas
 Web Pembelajaran
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
